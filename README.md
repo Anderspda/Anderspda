@@ -29,6 +29,16 @@ Este GitHub foi organizado para reunir meus estudos, projetos práticos e materi
     </a>
 </p>
 
+## Competências em destaque
+
+- Testes manuais
+- Testes funcionais
+- Testes negativos
+- Validação de sistemas
+- Documentação de testes
+- Registro de bugs
+- Análise de cenários
+
 ## Direção atual
 
 Atualmente, estou focado em fortalecer minha base em QA por meio de projetos práticos e bem documentados, criando um portfólio que reflita boas práticas de qualidade, clareza na comunicação e aplicação real dos fundamentos de teste.
