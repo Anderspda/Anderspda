@@ -29,22 +29,6 @@ Este GitHub foi organizado para reunir meus estudos, projetos práticos e materi
     </a>
 </p>
 
-## Tecnologias
-
-
-
-## Ferramentas e recursos utilizados
-
-- GitHub
-- Google Sheets / Excel
-- Google Chrome DevTools
-- Postman
-- Notion
-
 ## Direção atual
 
 Atualmente, estou focado em fortalecer minha base em QA por meio de projetos práticos e bem documentados, criando um portfólio que reflita boas práticas de qualidade, clareza na comunicação e aplicação real dos fundamentos de teste.
-
-## Contato profissional
-
-Em breve, este perfil será complementado com meus projetos publicados e integração com meu LinkedIn profissional.
