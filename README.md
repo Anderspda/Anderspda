@@ -10,21 +10,21 @@ Este GitHub foi organizado para reunir meus estudos, projetos práticos e materi
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
     <a href="mailto:anderspereiradealmeida@hotmail.com">
         <img 
             alt="E-mail" 
             title="Entre em contato por e-mail" 
-            src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=outloo&logoColor=white"
+            src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
     <a href="https://github.com/Anderspda?tab=repositories">
         <img 
             alt="Repositórios GitHub" 
             title="Ver meus repositórios no GitHub" 
-            src="https://img.shields.io/badge/gitHub-Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white"
+            src="https://img.shields.io/badge/gitHub Repositórios-181717?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
 </p>
