@@ -13,7 +13,7 @@ Este GitHub foi organizado para reunir meus estudos, projetos práticos e materi
             src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="mailto:anderspereiradealmeida@hotmail.com">
+    <a href="mailto:anderpereiradealmeida@gmail.com">
         <img 
             alt="E-mail" 
             title="Entre em contato por e-mail" 
