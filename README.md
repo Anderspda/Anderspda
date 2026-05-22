@@ -1,8 +1,8 @@
 # Anderson Pereira de Almeida
 
-Tenho 33 anos e sou natural do Ceará. Atuo na área de **Qualidade de Software (QA)**, com foco em **testes manuais, validação de software, documentação de testes e registro de bugs**.
+Tenho 33 anos e sou natural do Ceará. Atuo na área de **Qualidade de Software (QA)**, com foco em **estratégias de testes manuais, documentação e, atualmente, expandindo minha atuação com automação de testes**.
 
-Este GitHub foi organizado para reunir meus estudos, projetos práticos e materiais de portfólio, com o **objetivo de demonstrar meu raciocínio analítico, minha organização e minha evolução na área de QA**.
+Este GitHub foi organizado para reunir meus estudos, projetos práticos e materiais de portfólio, com o **objetivo de demonstrar meu raciocínio analítico, minha organização e minha evolução contínua na engenharia de qualidade**.
 
 
 <p align="left">
@@ -31,14 +31,11 @@ Este GitHub foi organizado para reunir meus estudos, projetos práticos e materi
 
 ## Competências em destaque
 
-- Testes manuais
-- Testes funcionais
-- Testes negativos
-- Validação de sistemas
-- Documentação de testes
-- Registro de bugs
-- Análise de cenários
+- **Fundamentos de QA:** Testes manuais, funcionais e negativos.
+- **Ciclo de Bugs:** Registro detalhado de falhas e validação de sistemas.
+- **Processos:** Análise de cenários de teste e documentação estruturada.
+- **Automação:** Desenvolvimento de scripts iniciais para otimização de testes (em evolução).
 
 ## Direção atual
 
-Atualmente, estou focado em fortalecer minha base em QA por meio de projetos práticos e bem documentados, criando um portfólio que reflita boas práticas de qualidade, clareza na comunicação e aplicação real dos fundamentos de teste.
+Com uma base sólida nos fundamentos de QA, meu foco atual está na evolução para a automação de testes. Estou desenvolvendo projetos práticos que combinam estratégias de teste de software com a criação de scripts automatizados, visando eficiência, clareza na comunicação e a entrega de software com alta qualidade.
